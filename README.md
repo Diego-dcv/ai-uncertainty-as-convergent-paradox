@@ -79,6 +79,15 @@ This repository completes a series:
 
 ---
 
+### DOI: [Pending Zenodo registration]
+
+---
+
+### License
+*CC BY 4.0* - Cite and adapt freely
+
+---
+
 ### 📖 Citation
 ```bibtex
 @misc{diego2025uncertainty,
@@ -91,11 +100,4 @@ This repository completes a series:
 
 ---
 
-### DOI: [Pending Zenodo registration]
 
----
-
-### License
-*CC BY 4.0* - Cite and adapt freely
-
----
