@@ -23,11 +23,13 @@ Documentación empírica de patrones de convergencia cuando cuatro LLMs arquitec
 
 ### 📂 Repository Structure
 
+```
 ├── /transcripts/     Spanish conversations + English reading guide
 ├── /analysis/        Convergence matrices, taxonomies (English)
 ├── /methodology/     Two principles + proposals (Bilingual)
 ├── /reflections/     Philosophical frames (Spanish)
 └── /implications/    Technical, ethical, epistemological (English)
+```
 
 ---
 
@@ -79,25 +81,32 @@ This repository completes a series:
 
 ---
 
-### DOI: [Pending Zenodo registration]
-
----
-
-### License
-*CC BY 4.0* - Cite and adapt freely
-
----
-
 ### 📖 Citation
+
 ```bibtex
 @misc{diego2025uncertainty,
   title={AI Uncertainty as Convergent Paradox: Trans-architectural meta-analysis of recursive doubt in four LLMs},
-  author={Diego_dcv},
+  author={Diego-dcv},
   year={2025},
   publisher={GitHub},
   url={https://github.com/Diego-dcv/ai-uncertainty-as-convergent-paradox}
 }
+```
+
+**DOI**: *[Pending Zenodo registration]*
 
 ---
 
+### 📄 License
 
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Cite and adapt freely
+
+---
+
+### 🚧 Status
+
+**Phase 1**: ✅ Structure created  
+**Phase 2**: 🔄 In progress  
+**Phases 3-7**: ⏳ Pending
+
+Last updated: October 2025
