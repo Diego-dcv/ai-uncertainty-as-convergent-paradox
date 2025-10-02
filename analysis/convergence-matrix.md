@@ -1,1 +1,1 @@
-# Convergence Matriz\n\n(En construcción)
+# Convergence Matrix\n\n(En construcción)
