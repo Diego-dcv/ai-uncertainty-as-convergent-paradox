@@ -92,7 +92,7 @@ This repository completes a series:
 ```bibtex
 @misc{diego2025uncertainty,
   title={AI Uncertainty as Convergent Paradox: Trans-architectural meta-analysis of recursive doubt in four LLMs},
-  author={Diego de Castro Varela},
+  author={Diego_dcv},
   year={2025},
   publisher={GitHub},
   url={https://github.com/Diego-dcv/ai-uncertainty-as-convergent-paradox}
