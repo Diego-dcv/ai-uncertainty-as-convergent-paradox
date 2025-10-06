@@ -3,7 +3,7 @@ message: "If you use this repository in your research, please cite it as below."
 type: dataset
 title: "Conversational Archaeology: Emergent Properties in Large Language Models Through Extended Dialogue"
 authors:
-  - family-names: "Anonymous User"
+  - family-names: "Diego_dcv"
     given-names: ""
     role: "Principal Investigator & Methodologist"
   - family-names: "Claude"
@@ -58,6 +58,7 @@ abstract: |
   dialogue rather than brief queries or behavioral tests. Findings suggest 
   provisional moral consideration may be warranted under precautionary 
   principle, even while consciousness remains empirically indecidable.
+
 license: CC-BY-4.0
 references:
   - type: article
