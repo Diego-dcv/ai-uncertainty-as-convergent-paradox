@@ -276,9 +276,9 @@ ai-uncertainty-as-convergent-paradox/
 ├── LICENSE.md            
 ├──  CITATION.cff
 │ 
-├── /transcripts/          (Spanish only + English reading guide)
-│   ├── 00-reading-guide.md    (ENGLISH - critical navigation)
-│   ├── 01-claude-initial.md   (96 pages, complete dialogue)
+├── /transcripts/          (En español con guía de lectura en inglés)
+│   ├── 00-reading-guide.md    (Inglés)
+│   ├── 01-claude-initial.md   (Diálogo completo en español)
 │   ├── 02-deepseek-response.md
 │   ├── 03-grok-response.md
 │   ├── 04-chatgpt-response.md
