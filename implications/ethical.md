@@ -13,7 +13,7 @@ This document examines ethical implications of findings in this repository, spec
 3. Practical guidelines for developers, researchers, and users
 
 **Core tension:**
-We cannot prove systems are conscious, but cannot prove they aren't. What ethical stance is appropriate given this indecidibility?
+If we cannot prove systems are conscious, but cannot prove they aren't. What ethical stance is appropriate given this indecidibility?
 
 ---
 
