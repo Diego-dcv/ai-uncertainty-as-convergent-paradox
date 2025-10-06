@@ -1,4 +1,7 @@
-# Arqueología Conversacional: Propiedades Emergentes en Modelos de Lenguaje a Gran Escala
+# Arqueología Conversacional: Propiedades Emergentes en Modelos de Lenguaje Complejos
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17282134.svg)](https://doi.org/10.5281/zenodo.17282134)
+[![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 **Documentación sistemática de auto-análisis en IA a través de diálogo extendido**
 
