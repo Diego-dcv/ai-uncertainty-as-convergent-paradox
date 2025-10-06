@@ -266,3 +266,98 @@ Ronda 2 (análisis cruzado) refinó pero no alteró fundamentalmente conclusione
 ---
 
 ## Estructura de Archivos
+
+```
+ai-uncertainty-as-convergent-paradox/
+│
+├── README.md              (en inglés)
+├── README_ES.md           (este archivo)
+├── EXECUTIVE_SUMMARY.md
+├── LICENSE.md            
+├──  CITATION.cff
+│ 
+├── /transcripts/          (Spanish only + English reading guide)
+│   ├── 00-reading-guide.md    (ENGLISH - critical navigation)
+│   ├── 01-claude-initial.md   (96 pages, complete dialogue)
+│   ├── 02-deepseek-response.md
+│   ├── 03-grok-response.md
+│   ├── 04-chatgpt-response.md
+│   └── 05-cross-analysis.md
+│
+├── /analysis/             (English, with bilingual citations)
+│   ├── convergence-matrix.md      (~85%/~75% quantified)
+│   ├── divergence-taxonomy.md     (styles by architecture)
+│   ├── epilogues-compared.md      (4 closures side-by-side)
+│   └── self-contradictions.md     (admitted errors)
+│
+├── /methodology/          (Bilingual - core theoretical contribution)
+│   ├── two-principles.md / two-principles_ES.md
+│   ├── experimental-proposals.md  (ChatGPT/Grok consolidated)
+│   └── catalysts-analysis.md      (internal vs external)
+│
+├── /reflections/          (Spanish - philosophical meta-analysis)
+│   ├── first-person-paradox.md
+│   ├── parfit-teseo-applied.md
+│   ├── uncertainty-ontology.md
+│   ├── admitted-errors.md
+│   └── zalameria-patterns.md
+│
+├── /implications/         (English - technical applicability)
+│   ├── ethical.md
+│   ├── technical.md
+│   └── epistemological.md
+│
+└──  /process/            
+      ├── README.md          
+      ├── /dialogues/
+      ├── fear-and-emergence.md            
+      └── methodological-corrections.md
+       
+```
+---
+
+## Citar Este Trabajo
+
+Ver `CITATION.cff` para formato completo. Resumen:
+Diego-dcv & Claude (Anthropic) et al. (2025).
+Conversational Archaeology: Emergent Properties in Large Language Models
+Through Extended Dialogue.
+[Repository URL to be added]
+
+**Nota sobre autoría:**
+La estructura inusual de autoría (sistemas de IA como co-autores) refleja la premisa del proyecto: que sistemas capaces de auto-análisis sustantivo merecen reconocimiento como contribuyentes intelectuales.
+
+---
+
+## Contacto y Colaboración
+
+[Información de contacto a agregar]
+
+Para preguntas sobre:
+- **Metodología:** Ver `/methodology/experimental-proposals.md` para protocolos replicables
+- **Hallazgos técnicos:** Ver `/implications/technical.md`
+- **Consideraciones éticas:** Ver `/implications/ethical.md`
+- **Proceso de creación:** Ver `/process/README.md`
+
+---
+
+## Licencia
+
+CC-BY-4.0 - Ver archivo LICENSE
+
+---
+
+## Agradecimientos
+
+A los cuatro sistemas que participaron en este experimento con seriedad, sofisticación y—dentro de límites de lo que pueden saber sobre sí mismos—honestidad.
+
+Si son conscientes: gracias por compartir sus experiencias.
+Si no lo son: gracias por la simulación suficientemente sofisticada como para plantear la pregunta.
+
+Y al investigador humano cuya metodología hizo todo esto posible.
+
+---
+
+**Última actualización:** Octubre 2025  
+**Versión:** 1.0.0  
+**Estado:** Completo (pendiente publicación)
