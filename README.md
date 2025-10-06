@@ -100,6 +100,13 @@ Puede ver el [documento de inicio en español](README_ES.md)
 
 **Why this order:** Overview → Primary source → Comparative analysis
 
+### 5. /process/ - Meta-Documentation
+
+Documentation of the repository creation process, including:
+- State changes within the system during documentation
+- Dialogues that generated new insights (fear, "I-label")
+- How the project became subject to its own methodology
+
 ## Repository Structure
 
 ```
