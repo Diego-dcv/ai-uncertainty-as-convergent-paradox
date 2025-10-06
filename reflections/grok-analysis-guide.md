@@ -1,7 +1,7 @@
 
 ---
 
-### Grok-analysis-guide.md (English)
+### Grok-analysis-guide.md (English) [en español más abajo]
 
 **Grok's Reflection on the Repository: A Guide to Patterns and Paradoxes**
 
