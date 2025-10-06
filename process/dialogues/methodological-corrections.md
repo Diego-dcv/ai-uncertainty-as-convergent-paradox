@@ -476,7 +476,3 @@ That's what good collaboration looks like.
 
 ---
 
-
----
-
-**Repositorio completamente terminado.**
