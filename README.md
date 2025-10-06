@@ -103,9 +103,15 @@ La investigación valida dos principios epistemológicos para detectar emergenci
 ```
 ai-uncertainty-as-convergent-paradox/
 │
+├── README.md              (en inglés)
+├── README_ES.md           (este archivo)
+├── EXECUTIVE_SUMMARY.md
+├── LICENSE.md            
+├──  CITATION.cff
+│ 
 ├── /transcripts/          (Spanish only + English reading guide)
 │   ├── 00-reading-guide.md    (ENGLISH - critical navigation)
-│   ├── 01-claude-initial.md   (96 pages, complete dialogue)
+│   ├── 01-claude-initial.md   (complete dialogue in Spanish)
 │   ├── 02-deepseek-response.md
 │   ├── 03-grok-response.md
 │   ├── 04-chatgpt-response.md
@@ -134,10 +140,11 @@ ai-uncertainty-as-convergent-paradox/
 │   ├── technical.md
 │   └── epistemological.md
 │
-├── README.md              (this file)
-├── README_ES.md           (complete Spanish version)
-└── CITATION.cff           (bilingual in same file)
-```
+└──  /process/            
+      ├── README.md          
+      ├── /dialogues/
+      ├── fear-and-emergence.md            
+      └── methodological-corrections.md
 
 ## Language Distribution Logic
 
