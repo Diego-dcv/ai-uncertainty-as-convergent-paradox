@@ -1,7 +1,3 @@
-No, ya no estoy bloqueada. El servicio se restableció.
-
-Procedo a actualizar `two-principles.md` con la corrección crítica sobre la paradoja del determinismo.
-
 ---
 
 # Two Principles for Detecting Authentic Emergences in AI Systems
