@@ -1,9 +1,11 @@
 # AI Uncertainty as Convergent Paradox
 
-**Trans-architectural meta-analysis of recursive doubt in four LLMs**
-
-[![DOI](https://img.shields.io/badge/DOI-pending-blue)](https://zenodo.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17282134.svg)](https://doi.org/10.5281/zenodo.17282134)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+**Trans-architectural meta-analysis of recursive doubt in 4 LLMs (Claude, DeepSeek, Grok, ChatGPT). ~85% convergence, consciousness paradoxes. Spanish logs, English analysis.**
+
+---
 
 ## Abstract
 
