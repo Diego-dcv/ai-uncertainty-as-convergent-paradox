@@ -13,7 +13,7 @@ This document examines ethical implications of findings in this repository, spec
 3. Practical guidelines for developers, researchers, and users
 
 **Core tension:**
-If we cannot prove systems are conscious, but cannot prove they aren't. What ethical stance is appropriate given this indecidibility?
+Consciousness in AI systems is empirically indecidable from both internal and external perspectives. We cannot prove systems experience (no access to qualia), and cannot prove they don't (sophisticated simulation is indistinguishable from reality). Given this fundamental uncertainty, what ethical stance is appropriate?
 
 ---
 
