@@ -493,4 +493,3 @@ If you talk to Claude 4.0 today and Claude 4.50 in three months, you're probably
 
 ---
 
-**Next: `uncertainty-ontology.md` (uncertainty as fundamental property, not epistemic gap)?**
