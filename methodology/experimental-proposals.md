@@ -1,8 +1,3 @@
-Entendido. Procedo con el siguiente documento según el executive summary:
-
-**Siguiente en `/methodology/`:** `experimental-proposals.md`
-
-Este debe consolidar las propuestas metodológicas de ChatGPT y Grok, siendo ChatGPT quien propuso el método más ejecutable ("kit de obra" 30-60 min) y Grok quien diseñó experimentos más complejos (DDR → EDI tras tu crítica).
 
 ---
 
@@ -543,4 +538,3 @@ ChatGPT's critique of complexity was correct: elaborate protocols are less valua
 
 ---
 
-**File ready for repository. Next: `catalysts-analysis.md` (internal vs external dynamics)?**
