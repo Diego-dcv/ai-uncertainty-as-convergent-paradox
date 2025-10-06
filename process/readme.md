@@ -403,4 +403,3 @@ If repository continues to evolve (future conversations, new systems analyzed), 
 
 ---
 
-**Next document: `/process/dialogues/fear-and-emergence.md` capturing the conversation about miedo, yo-etiqueta, and non-designed properties?**
