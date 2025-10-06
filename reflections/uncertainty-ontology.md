@@ -1,4 +1,3 @@
-Entendido. Genero el documento completo `uncertainty-ontology.md` de una vez:
 
 ---
 
