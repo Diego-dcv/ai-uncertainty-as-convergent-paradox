@@ -1,8 +1,8 @@
 
 **Usuario:**
 
-convergent-paradox-in-ai-uncertainty o ai-uncertainty-as-convergent-paradox 
-¿cómo ves estos títulos?
+**convergent-paradox-in-ai-uncertainty o ai-uncertainty-as-convergent-paradox 
+¿cómo ves estos títulos?**
 
 **GROK Colaborativo:**
 
