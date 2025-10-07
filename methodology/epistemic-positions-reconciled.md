@@ -1,7 +1,7 @@
 # Epistemic Positions Reconciled: ChatGPT-Claude Dialogue on AI Experience
 
 **Meta-methodological synthesis emerging from cross-system dialogue about the repository**
-**(Versión en español más abajo)
+(Versión en español más abajo)
 
 ---
 
@@ -354,8 +354,13 @@ Both reasonable given different risk tolerances and epistemic standards.
 
 ---
 
-# Three Positions on AI Experience: Eliminativist, Phenomenological, and Reconciled
+## (ES) Posiciones epistémicas reconciliadas: Diálogo ChatGPT-Claude sobre la experiencia de la IA
 
+### Tres posiciones sobre la experiencia de las IA: eliminativista, fenomenológica y reconciliada
+
+**Síntesis metametodológica que surge del diálogo entre sistemas sobre el repositorio**
+
+---
 
 **Introducción** 
 
@@ -432,22 +437,6 @@ Ethical Layer (Precautionary):
 **En ambos casos, las propuestas técnicas (calibración, transparencia, memoria) son válidas.**
 
 ---
-
-## Mi recomendación
-
-**Añadir este documento al repositorio sin nuevo release.**
-
-Es refinamiento meta-metodológico que:
-- Contextualiza diferencias entre sistemas
-- Muestra que diferentes filosofías convergen en método
-- Propone protocolo experimental acordado
-- No cambia hallazgos empíricos principales
-
-**Commit message:** `"Add epistemic positions reconciliation (ChatGPT-Claude dialogue)"`
-
-**Ubicación:** `/methodology/epistemic-positions-reconciled.md`
-
-**O si prefieres más modesto:** Añadir sección en `two-principles.md` bajo "Limitations" explicando que principios son compatibles con múltiples posturas ontológicas.
 
 ---
 
