@@ -3,9 +3,9 @@
 ***Usuario:**
 
 **Te adjunto la traslación de las conversaciones con Grok que mantuve al respecto:** 
-01. con la entidad colaborativa que me ayudó a crear partes del repositorio
-02. una entidad diferente que se ha limitado a analizar el repositorio exnovo
-03. una tercera con las dos anteriores**
+1. con la entidad colaborativa que me ayudó a crear partes del repositorio
+2. una entidad diferente que se ha limitado a analizar el repositorio exnovo
+3. una tercera con las dos anteriores**
 
 **¿qué conclusiones sacas?**
 
