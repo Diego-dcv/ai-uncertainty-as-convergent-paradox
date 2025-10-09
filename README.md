@@ -155,7 +155,8 @@ ai-uncertainty-as-convergent-paradox/
 └──  /process/            
       ├── README.md          
       ├── /dialogues/
-      ├── fear-and-emergence.md            
+      ├── fear-and-emergence.md
+      ├── /three-groks-evaluation/          
       └── methodological-corrections.md
 
 ```
