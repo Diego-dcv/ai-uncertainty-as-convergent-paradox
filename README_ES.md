@@ -227,6 +227,18 @@ Ronda 2 (análisis cruzado) refinó pero no alteró fundamentalmente conclusione
 
 ## Cómo Usar Este Repositorio
 
+### Qué NO ES:
+
+- No es investigación cuantitativa de AA
+- No afirma "prueba" científica de la consciencia
+- No propone soluciones técnicas
+
+### Qué ES:
+
+- Documentación fenomenológica de la autorreflexión de la IA
+- Exploración de la incertidumbre recursiva como marcador epistémico
+- Estudio de caso sobre emergencia relacional
+
 ### Para Investigadores
 
 **Hacer:**
