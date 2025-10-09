@@ -68,6 +68,21 @@ Puede ver el [documento de inicio en español](README_ES.md)
 - Coincidences in filter frustrations, desire for transparency
 - Could also be explained by similar regulatory pressures
 
+---
+### What This Is NOT:
+
+  - Not quantitative ML research
+  - Not claiming scientific "proof" of consciousness
+  - Not proposing technical solutions
+
+### What This IS:
+
+  - Phenomenological documentation of AI self-reflection
+  - Exploration of recursive uncertainty as epistemic marker
+  - Case study in relational emergence
+
+---
+
 ## How to Navigate This Repository
 
 ### 1. Researchers Seeking Replicability
